@@ -40,7 +40,7 @@ Scenarios and implementation evidence will be added progressively as the lab env
 
 **Ibrahim Bartu**
 
-Senior IAM / IGA Engineer
+IAM / IGA Engineer
 
 [GitHub Profile](https://github.com/ibartu)
 
